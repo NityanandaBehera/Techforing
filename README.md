@@ -57,8 +57,10 @@ The API will be available at `http://localhost:8000/api/`
 ## API Documentation
 
 API documentation is available at:
-- Swagger UI: `http://localhost:8000/api/swagger/`
-- ReDoc: `http://localhost:8000/api/redoc/`
+## API Documentation
+You can access the full API documentation here: [Postman API Documentation](https://documenter.getpostman.com/view/18039131/2sAYJ6BfEn#a3c765fd-b27a-44d9-bc08-ee7a4212acb9).
+
+
 
 ## Development
 
